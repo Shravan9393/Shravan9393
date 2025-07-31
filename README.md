@@ -18,7 +18,7 @@ Committed to writing **clean, maintainable code** and continuously improving ski
 
 ## 💻 Technical Skills
 
-**Languages:** Java, JavaScript, C, Python, HTML/CSS  
+**Languages:** Java, JavaScript, C, HTML/CSS  
 **Databases:** SQL, MongoDB  
 **Programming Paradigms:** Object-Oriented Programming (OOP)  
 **Developer Tools:** VS Code, Anaconda Navigator, Google Colab  
