@@ -4,7 +4,7 @@
 
 ## 🔹 Profile Summary
 
-- Software developer proficient in **Java**, **JavaScript**, **C**, and **Python**.
+- Software developer proficient in **Java**, **JavaScript**.
 - Experienced in backend development using **Node.js**, **Express.js**, and **MongoDB**.
 - Skilled in designing and implementing **RESTful APIs** for efficient and scalable applications.
 - Strong foundation in database management, server-side logic, and system optimization for performance and reliability.
