@@ -1,5 +1,31 @@
 # 💫 About Me:
-Hello! My name is Shravan Yadav<br>I am Currently Working in the fields of web development,<br>and Also in the field of Software Engineering.<br> You can reach me by email at yadavshravan9393@gmail.com<br> My pronouns are "He".
+
+# 👋 Hello! I'm Shravan Yadav
+
+## 🔹 Profile Summary
+
+- Software developer proficient in **Java**, **JavaScript**, **C**, and **Python**.
+- Experienced in backend development using **Node.js**, **Express.js**, and **MongoDB**.
+- Skilled in designing and implementing **RESTful APIs** for efficient and scalable applications.
+- Strong foundation in database management, server-side logic, and system optimization for performance and reliability.
+- Certified in **Java** and **CSS** by HackerRank.
+- Passionate about writing clean, maintainable code and continuously learning in the field of software development.
+
+---
+
+📧 **Email**: [yadavshravan9393@gmail.com](mailto:yadavshravan9393@gmail.com)  
+🧑‍💻 **Pronouns**: He/Him
+
+
+## 💻 Technical Skills
+
+**Languages:** Java, JavaScript, C, Python, HTML/CSS  
+**Databases:** SQL, MongoDB  
+**Programming Paradigms:** Object-Oriented Programming (OOP)  
+**Developer Tools:** VS Code, Anaconda Navigator, Google Colab  
+**Version Control:** Git, GitHub  
+**Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, Operating Systems, Web Development, Software Engineering, Computer Networks  
+**Technologies/Frameworks:** Node.js, Express.js, Bootstrap
 
 
 ## 🌐 Socials:
