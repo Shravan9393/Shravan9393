@@ -7,7 +7,6 @@
 - Software developer proficient in **Java**, **JavaScript**.
 - Experienced in backend development using **Node.js**, **Express.js**, and **MongoDB**.
 - Skilled in designing and implementing **RESTful APIs** for efficient and scalable applications.
-- Strong foundation in database management, server-side logic, and system optimization for performance and reliability.
 - Certified in **Java** and **CSS** by HackerRank.
 - Passionate about writing clean, maintainable code and continuously learning in the field of software development.
 
