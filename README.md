@@ -4,11 +4,11 @@
 
 ## 🔹 Profile Summary
 
-- Software developer proficient in **Java**, **JavaScript**.
-- Experienced in backend development using **Node.js**, **Express.js**, and **MongoDB**.
-- Skilled in designing and implementing **RESTful APIs** for efficient and scalable applications.
-- Certified in **Java** and **CSS** by HackerRank.
-- Passionate about writing clean, maintainable code and continuously learning in the field of software development.
+Aspiring software developer with a strong foundation in **Java**, and hands-on academic exposure to **backend development** using **Node.js**, **Express.js**, and **MongoDB**.  
+Familiar with designing and working on **RESTful APIs** for scalable applications.  
+Knowledgeable in **database management** and **server-side programming concepts**.  
+Committed to writing **clean, maintainable code** and continuously improving skills through **self-learning**, **projects**, and **certifications**.
+
 
 ---
 
